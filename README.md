@@ -92,11 +92,8 @@ Dataset source and licensing information will be documented separately.
 ## Team
 
 Developed as a collaborative academic project by three students.
+1.Raj Lohar
+2.Sujit Kumar Nayak
+3.Padhuri Sanith Reddy
 
-## Limitations
 
-The analysis is observational and does not establish causal relationships. Conclusions depend on the dataset quality, model assumptions, and prior specifications. The dataset's provenance and possible synthetic nature will be investigated before interpreting findings.
-
-## Status
-
-Project in progress.
