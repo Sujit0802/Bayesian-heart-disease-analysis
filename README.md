@@ -33,7 +33,6 @@ Important variables include:
 
 The target variable is Heart Disease Status (Yes/No).
 
-Dataset source and licensing information will be documented separately.
 
 ## Methodology
 
@@ -69,16 +68,7 @@ Dataset source and licensing information will be documented separately.
 - Posterior odds ratios.
 - Credible intervals and model diagnostics.
 
-## Technologies
-
-- Python
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- Seaborn
-- PyMC
-- ArviZ
+We have used Python
 
 ## Repository Structure
 
